@@ -1,0 +1,3 @@
+[submodule "test-private"]
+	path = test-private
+	url = https://github.com/Sohrabbeig/test-private.git
